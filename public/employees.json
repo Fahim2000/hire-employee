@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "name": "Sofia",
+    "rating": "3.3/5",
+    "salary": "800",
+    "years_of_experience": "4",
+    "role": "UI/UX designer",
+    "gender": "female",
+    "img": "https://images.unsplash.com/photo-1573497491765-dccce02b29df?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=687&q=80"
+  },
+  {
+    "id": 2,
+    "name": "Kevin",
+    "rating": "4.9/5",
+    "salary": "600",
+    "years_of_experience": "10",
+    "role": "ReactJS developer",
+    "gender": "male",
+    "img": "https://images.unsplash.com/photo-1560250097-0b93528c311a?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=687&q=80"
+  },
+  {
+    "id": 3,
+    "name": "Aaron",
+    "rating": "2/5",
+    "salary": "300",
+    "years_of_experience": "1",
+    "role": "NodeJS developer",
+    "gender": "male",
+    "img": "https://images.unsplash.com/photo-1543060829-a0029874b174?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=687&q=80"
+  },
+  {
+    "id": 4,
+    "name": "Steven",
+    "rating": "4.5/5",
+    "salary": "350",
+    "years_of_experience": "3",
+    "role": "Graphics designer",
+    "gender": "male",
+    "img": "https://images.unsplash.com/photo-1545184180-25d471fe75eb?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=687&q=80"
+  },
+  {
+    "id": 5,
+    "name": "Archer",
+    "rating": "3.2/5",
+    "salary": "400",
+    "years_of_experience": "5",
+    "role": "Wordpress developer",
+    "gender": "male",
+    "img": "https://images.unsplash.com/photo-1556817977-00e61f659427?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=689&q=80"
+  },
+  {
+    "id": 6,
+    "name": "Joe",
+    "rating": "3.9/5",
+    "salary": "890",
+    "years_of_experience": "4.5",
+    "role": "Full stack developer",
+    "gender": "male",
+    "img": "https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=687&q=80"
+  },
+  {
+    "id": 7,
+    "name": "Chris",
+    "rating": "4.5/5",
+    "salary": "400",
+    "years_of_experience": "3",
+    "role": "UI/UX designer",
+    "gender": "male",
+    "img": "https://images.unsplash.com/photo-1562004760-aceed7bb0fe3?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=688&q=80"
+  },
+  {
+    "id": 8,
+    "name": "Christina",
+    "rating": "3.2/5",
+    "salary": "410",
+    "years_of_experience": "2",
+    "role": "Video editor",
+    "gender": "female",
+    "img": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=688&q=80"
+  },
+  {
+    "id": 9,
+    "name": "Peter",
+    "rating": "4.5/5",
+    "salary": "400",
+    "years_of_experience": "3",
+    "role": "software engineer",
+    "gender": "male",
+    "img": "https://images.unsplash.com/photo-1590086782957-93c06ef21604?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=687&q=80"
+  }
+]
