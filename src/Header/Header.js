@@ -4,7 +4,7 @@ const Header = () => {
   return (
     <div className="mb-4">
       <h1 className="text-primary text-center">
-        Welcome to employee hiring website
+        Welcome to employee hiring Website
       </h1>
       <p className=" text-center lead text-secondary fs-4">
         In this website you will be able to hire them for your
