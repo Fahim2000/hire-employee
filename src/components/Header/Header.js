@@ -1,5 +1,5 @@
 import React from "react";
-
+// Header component
 const Header = () => {
   return (
     <div className="mb-4">

@@ -1,10 +1,11 @@
 import "./App.css";
-import Employees from "./Employee/Employees";
-import Header from "./Header/Header";
+import Employees from "./components/Employee/Employees";
+import Header from "./components/Header/Header";
 
 function App() {
   return (
     <>
+      {/* rendering header and employees components */}
       <Header></Header>
       <Employees></Employees>
     </>

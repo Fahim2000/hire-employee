@@ -5,6 +5,7 @@ import EmployeeDetails from "../EmployeeDetails/EmployeeDetails";
 const Employees = () => {
   const [employees, setEmployees] = useState([]);
   const [totalEmployees, setTotalEmployees] = useState([]);
+  // fetching data from public folder
   useEffect(() => {
     fetch("./employees.json")
       .then((res) => res.json())

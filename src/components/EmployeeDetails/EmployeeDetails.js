@@ -1,11 +1,10 @@
 import React from "react";
 
 const EmployeeDetails = (props) => {
-  // console.log(props.handleEmployeeHire);
   const { gender, name, rating, salary, years_of_experience, role, img } =
     props.emp;
   const { handleEmployeeHire } = props;
-
+  // single employee card design
   return (
     <div className="col">
       <div className="card">

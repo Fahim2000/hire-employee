@@ -1,5 +1,5 @@
 import React from "react";
-
+// This is the total employees section
 const EmployeeCollectionDetails = ({ totalEmployees }) => {
   return (
     <div>
@@ -22,7 +22,7 @@ const EmployeeCollectionDetails = ({ totalEmployees }) => {
       </h4>
       <hr />
       <h4 className="text-primary fw-bold">
-        Name of the employees will be shown when they will be selected :{" "}
+        Name of the employees will be shown when they will be selected :
       </h4>
       <ol>
         {totalEmployees.map((emp) => {
